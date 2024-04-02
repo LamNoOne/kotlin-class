@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RadioButton - CheckBox</string>
+    <string name="hotline">09343927464</string>
+    <string name="website">http://cellphones.com.vn</string>
+    <string-array name="Genders">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+</resources>
